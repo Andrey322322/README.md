@@ -9,7 +9,7 @@ important to read
 <div align="center">
   <strong><em>"Can you smell what the QA is cooking?"</em></strong>
   <br>
-  <video src="assets/rock-wow-wow-wow.mp4" width="400" controls muted loop playsinline></video>
+  <video src="https://github.com/Andrey322322/README.md/blob/main/assets/rock-wow-wow-wow.mp4" width="400" controls muted loop playsinline></video>
 </div>
 > ---
 > ## Мои  (Soft Skills)

@@ -5,7 +5,10 @@ important to read
 ---
 > ** Воу воу воу воу**  
 > *Если вы узнали эту фразу, то мы скорее всего сработаемся. Разрядили обстановку - а теперь к делу:*
-> 
+> <p align="center">
+  <strong><em>"Can you smell what the QA is cooking?"</em></strong><br>
+  <video src="assets/rock wow wow wow.mp4" width="400" controls autoplay loop muted playsinline></video>
+</p> 
 > ---
 > ## Мои  (Soft Skills)
 Работая в другой сфере, я получил навыки, которые жизненно необходимы для работы в тестировании:

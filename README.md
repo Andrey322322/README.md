@@ -6,7 +6,7 @@ important to read
 > ** Воу воу воу воу**  
 > *Если вы узнали эту фразу, то мы скорее всего сработаемся. Разрядили обстановку - а теперь к делу:*
 <p align="center">
-  <video src="assets/assets/rock-wow-wow-wow.mp4" width="400" controls autoplay loop muted playsinline></video>
+  <video src="assets/rock-wow-wow-wow.mp4" width="400" controls autoplay loop muted playsinline></video>
 </p>
 > ---
 > ## Мои  (Soft Skills)

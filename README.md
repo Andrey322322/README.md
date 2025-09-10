@@ -8,7 +8,7 @@ important to read
 > 
 <div align="center">
 </div>
-**[Видео (300 КБ)](./assets/rock-wow-wow-wow.mp4)**
+[**▶️ Смотреть видео (300 КБ)**](./assets/rock-wow-wow-wow.mp4)
 > ---
 > ## Мои  (Soft Skills)
 Работая в другой сфере, я получил навыки, которые жизненно необходимы для работы в тестировании:

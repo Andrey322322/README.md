@@ -11,6 +11,8 @@ important to read
   <br>
   <video src="https://github.com/Andrey322322/README.md/raw/main/assets/rock-wow-wow-wow.mp4" width="400" controls muted loop playsinline></video>
 </div>
+
+**[▶️ Смотреть видео (300 КБ)](./assets/rock-wow-wow-wow.mp4)**
 > ---
 > ## Мои  (Soft Skills)
 Работая в другой сфере, я получил навыки, которые жизненно необходимы для работы в тестировании:
